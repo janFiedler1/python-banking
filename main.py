@@ -1,4 +1,4 @@
-from atm import ATM
+from Atm import ATM
 
 atm = ATM()
 
