@@ -1,6 +1,5 @@
 from Atm import ATM
+from GUI import GUI
 
-atm = ATM()
+kiosk = GUI()
 
-atm.init()
-atm.session()
